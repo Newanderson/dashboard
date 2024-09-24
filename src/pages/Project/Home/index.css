@@ -139,11 +139,13 @@
     justify-content: space-between;
     margin-top: 25px;
     border-radius: 5px;
+    background-color: #3f51fa;
   }
   
   aside .logo{
     display: flex;
     gap: 15px;
+    
   
   }
   
@@ -670,6 +672,16 @@
      width: 94%;
      margin: 0 auto 64px;
    }
+
+   aside .top1{
+    background: white;
+    }
+
+    .top1 H2{
+      background-color: #3f51fa;
+      padding: 5px;
+      border-radius: 5px;
+    }
 
    .top{
     position: fixed;

@@ -101,7 +101,7 @@ function Dashboard (){
 
                 
                 <div className='orders'>
-                  <h2> Todos os pedidos </h2>
+                  <h2> Pedidos </h2>
                   <table>
                     <thead>
                         <tr>

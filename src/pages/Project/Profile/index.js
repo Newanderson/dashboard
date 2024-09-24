@@ -80,7 +80,7 @@ function Profilemenu ({OpenSidebar}){
 <div className='last'>
        
 
-<h2 className='last-ordes'>Status dos pedidos</h2>
+<h2 className='last-ordes'>Status </h2>
 
         <div className='Status'>
 

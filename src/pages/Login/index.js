@@ -47,7 +47,7 @@ function Login() {
     return (
       <div className="home-cont"> 
       <h1>ION.<span >vendas</span></h1>
-        <p> acessar conta </p>
+        <p> Acessar conta </p>
 
         <form className="formu" onSubmit={handleLogin}>
           <input type="text" placeholder="Digite seu email..." 
